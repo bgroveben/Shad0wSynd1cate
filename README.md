@@ -31,4 +31,4 @@
 
 ## Current Projects:  
 * Build a Shad0w Syndicate website.  
-* Capture The Flag (CTF) competiton.  
+* Capture The Flag (CTF) competition.  

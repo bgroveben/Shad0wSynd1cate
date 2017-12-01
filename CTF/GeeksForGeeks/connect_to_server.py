@@ -1,5 +1,8 @@
 ### Socket Programming in Python
+# https://pythontips.com/2013/08/06/python-socket-network-programming/
+# Also contibuted to:
 # http://www.geeksforgeeks.org/socket-programming-python/
+
 
 # Here is an example of a script for connecting to Google:
 

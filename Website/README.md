@@ -8,6 +8,6 @@ This site should also accommodate the various projects and presentations from th
 
 ###  I'm starting by prototyping with [Python 3 and Django](https://github.com/divio/django-cms).
 
-### [I am following this tutorial.](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/3-adding-a-few-pages)
-
-### [I am here.](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/5-building-our-first-template)
+### [I am following this tutorial.](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/3-adding-a-few-pages)  
+and  
+### [I am here.](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/6-configuring-content-and-navigation)

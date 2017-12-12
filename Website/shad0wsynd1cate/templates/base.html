@@ -10,7 +10,12 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Clean Blog - About</title>
+
+    <title>
+        {% block title %}
+            {% page_attribute "page_title" %} - {{ request.site.name }}
+        {% endblock title %}
+    </title>
 
     <!-- Bootstrap Core CSS -->
     <link href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">

@@ -10,4 +10,4 @@ This site should also accommodate the various projects and presentations from th
 
 ### [I am following this tutorial.](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/3-adding-a-few-pages)  
 and  
-### [I am here.](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/6-configuring-content-and-navigation)
+### [I am here.](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/7-adding-content)

@@ -12,6 +12,6 @@ This site should also accommodate the various projects and presentations from th
 
 ### [I am following this tutorial.](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/3-adding-a-few-pages)  
 and  
-### [I am here.](http://support.divio.com/academy/advanced-how-to-build-a-website-and-blog-with-django-cms/13-blog-detail-header)  
+### [I am here.](http://support.divio.com/academy/advanced-how-to-build-a-website-and-blog-with-django-cms/14-implementing-a-contact-form)  
 
 ### [Understanding Nested Plugins](http://support.divio.com/academy/bonus-topics/understanding-nested-plugins)

@@ -7,7 +7,7 @@ from cms.models import CMSPlugin
 
 @python_2_unicode_compatible
 class Social(CMSPlugin):
-    label = models.CahrField(
+    label = models.CharField(
         blank=True,
         max_length=200,
     )

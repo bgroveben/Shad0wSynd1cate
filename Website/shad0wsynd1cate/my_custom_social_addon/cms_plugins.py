@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from cms.plugin_base import CMSPluginBase
 from cms.plugin_pool import plugin_pool
 
@@ -19,5 +20,6 @@ class SocialIconPlugin(CMSPluginBase):
     require_parent = True
     parent_classes = ['SocialPlugin']
 
+
 plugin_pool.register_plugin(SocialPlugin)
-plugin_pool.register(SocialIconPlugin)
+plugin_pool.register_plugin(SocialIconPlugin)

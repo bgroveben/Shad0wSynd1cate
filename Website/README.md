@@ -12,6 +12,6 @@ This site should also accommodate the various projects and presentations from th
 
 ### [I am following this tutorial.](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/3-adding-a-few-pages)  
 and  
-### [I am here.](http://support.divio.com/academy/advanced-how-to-build-a-website-and-blog-with-django-cms/18-creating-your-first-django-cms-addon)  -- CMS Plugins
+### [I am here.](http://support.divio.com/academy/advanced-how-to-build-a-website-and-blog-with-django-cms/18-creating-your-first-django-cms-addon)  -- Placeholders vs Static Placeholders
 
 ### [Understanding Nested Plugins](http://support.divio.com/academy/bonus-topics/understanding-nested-plugins)

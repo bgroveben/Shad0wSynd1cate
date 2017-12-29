@@ -10,8 +10,4 @@ This site should also accommodate the various projects and presentations from th
 
 ### When the site is ready, [here are the instructions for publishing and deployment](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/8-publishing-your-changes).
 
-### [I am following this tutorial.](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/3-adding-a-few-pages)  
-and  
-### [I am here.](http://support.divio.com/academy/advanced-how-to-build-a-website-and-blog-with-django-cms/18-creating-your-first-django-cms-addon)  -- Placeholders vs Static Placeholders
-
-### [Understanding Nested Plugins](http://support.divio.com/academy/bonus-topics/understanding-nested-plugins)
+### [Here's a tutorial](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/introduction)  that can get you started with the Divio app.

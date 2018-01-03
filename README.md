@@ -13,7 +13,7 @@
 
 ### What We Study, Practice and Present:  
 
-`With the domain of cyber security and IT being so broad, the activities are limitless. Below is a list of some of the activities/events we will be conducting:`
+`With the domain of cyber security and IT being so broad, the activities are almost limitless. Below is a list of some of the activities/events we will be conducting:`
 
 * Training/Workshops
 * Programming Workshops (Python, Ruby, etc.)

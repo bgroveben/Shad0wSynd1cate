@@ -125,6 +125,9 @@ a:focus {
   text-align: center;
   color: white;
   background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+  /* The following line in custom.css will override the background image.
+  background: url(../img/shad_syn_grayscale.svg) no-repeat bottom center scroll;
+  */
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;

@@ -1,0 +1,8 @@
+/* Intro background image: */
+.intro {
+  /*
+  background: url(../img/shad_syn_grayscale.svg) no-repeat bottom center scroll;
+  */
+  /* Make SVG image responsive: */
+  background: no-repeat center/100% url(../img/shad_syn_grayscale.svg);
+}

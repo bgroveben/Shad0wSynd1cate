@@ -1,8 +1,31 @@
+body {
+  width: 100%;
+  height: 100%;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: white;
+  background-color: black;
+}
+
 /* Intro background image: */
 .intro {
-  /*
-  background: url(../img/shad_syn_grayscale.svg) no-repeat bottom center scroll;
-  */
   /* Make SVG image responsive: */
   background: no-repeat center/100% url(../img/shad_syn_grayscale.svg);
+}
+
+/* Change color of social media link buttons: */
+.btn-default {
+  border: 1px solid #666666;
+  color: #666666;
+  background-color: transparent;
+}
+.btn-default:hover,
+.btn-default:focus {
+  border: 1px solid #666666;
+  outline: none;
+  color: black;
+  background-color: #666666;
+}
+
+.intro .intro-body .intro-text {
+  font-size: 18px;
 }

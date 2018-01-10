@@ -5,8 +5,10 @@ The Bootstrap template comes with its own README to fill you in on the details.
 ## To run the prototype static site in your browser:  
 1. [Clone this repository](https://help.github.com/articles/cloning-a-repository/)
 2. Open your terminal (command prompt).
-3. Navigate to the directory Shad0wSynd1cate/static-site/startbootstrap-grayscale-3.3.7-1 (the one that has index.html).
-4. On the command line type:
+3. Navigate to the directory:  
+`Shad0wSynd1cate/static-site/startbootstrap-grayscale-3.3.7-1`  
+(The one that contains the *index.html* file.)  
+4. On the command line type:  
 `>>> open -a "YourBrowserName" index.html`  
 Options for "YourBrowserHere" include "FirefoxDeveloperEdition" or
 "Google Chrome", for example.  

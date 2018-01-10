@@ -1,4 +1,16 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# [Shad0w Synd1cate Cybersecurity and IT Group of Las Vegas](https://www.meetup.com/Cyber-Security-and-IT-Computer-Group-of-Las-Vegas/events/246569084/)
+### To run the prototype static site in your browser:  
+1. [Clone this repository](https://help.github.com/articles/cloning-a-repository/)
+2. Open your terminal (command prompt).
+3. Navigate to the directory Shad0wSynd1cate/static-site/startbootstrap-grayscale-3.3.7-1 (the one that has index.html).
+4. On the command line type:
+`>>> open -a "YourBrowserName" index.html`  
+Options for "YourBrowserHere" include "FirefoxDeveloperEdition" or
+"Google Chrome", for example.  
+
+Your browser should open the website in a new tab.
+
+## [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
 

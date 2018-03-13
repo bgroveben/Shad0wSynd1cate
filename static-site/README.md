@@ -15,3 +15,7 @@ Options for "YourBrowserHere" include "FirefoxDeveloperEdition" or
 "Google Chrome", for example.  
 
 Your browser should open the website in a new tab.
+
+### Security Note:  
+The Shad0w Synd1cate site uses jQuery, which can have cross-site vulnerability issues like attaching unsanitized user input to the DOM.  
+This is not currently a concern, but it may become one if this site is updated to accept user input.

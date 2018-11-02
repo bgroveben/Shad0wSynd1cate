@@ -28,9 +28,3 @@
 * And More!
 
 `Our activities are not limited to the above list. We welcome any recommendations that would help make this group more exciting and beneficial.`
-
-## Current Projects:  
-* Build a Shad0w Syndicate website.  
-* Capture The Flag (CTF) competition.  
-
-# [Website](http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/5-building-our-first-template)  

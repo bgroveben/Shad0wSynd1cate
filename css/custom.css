@@ -1,6 +1,3 @@
 body {
-  width: 100%;
-  height: 100%;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background: center no-repeat url(../images/logo_img.svg);
+  background: fixed center no-repeat url(../images/logo_img.svg);
 }

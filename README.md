@@ -1,5 +1,7 @@
 # [Shad0w Synd1cate](https://www.meetup.com/Cyber-Security-and-IT-Computer-Group-of-Las-Vegas/)
 
+## [Come visit our website](https://bgroveben.github.io/ShadowSyndicate/)
+
 ## Projects related to this meetup group deal with Cybersecurity and IT issues.  
 
 ### What We're About:

@@ -96,3 +96,18 @@ body {
     background-color: rgba(255, 255, 255, 0.2); }
   100% {
     background-color: rgba(255, 255, 255, 0.2); } }
+
+/* Mobile-friendly */
+@media (max-width: 1199px) {
+  ul {
+    margin-top: 15px;
+    margin-bottom: 0;
+    padding: 0;
+  }
+}
+@media (max-width: 767px) {
+  ul li{
+    display: block;
+    margin-bottom: 20px;
+    padding: 0;
+  }

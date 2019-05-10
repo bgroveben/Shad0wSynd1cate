@@ -176,4 +176,7 @@ typings/
 .fusebox/
 
 #DynamoDB Local files
-.dynamodb/ 
+.dynamodb/
+
+# CNAME file for alternate server
+CNAME
